@@ -1,0 +1,93 @@
+/* public/style.css */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1, h2 {
+    color: #ffffff;
+    border-bottom: 2px solid #bb86fc;
+    padding-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#search-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #333;
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    font-size: 16px;
+}
+
+.schedule {
+    list-style: none;
+    padding: 0;
+}
+
+.schedule-item {
+    background-color: #2c2c2c;
+    border-left: 5px solid #bb86fc;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.schedule-item.break {
+    border-left-color: #03dac6;
+}
+
+.schedule-item h3 {
+    margin-top: 0;
+    color: #bb86fc;
+}
+
+.schedule-item.break h3 {
+    color: #03dac6;
+}
+
+.time {
+    font-weight: bold;
+    color: #ffffff;
+    margin-bottom: 10px;
+}
+
+.speakers {
+    font-style: italic;
+    color: #b0b0b0;
+    margin-bottom: 10px;
+}
+
+.category {
+    display: inline-block;
+    background-color: #3e3e3e;
+    color: #e0e0e0;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 12px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.description {
+    line-height: 1.6;
+}

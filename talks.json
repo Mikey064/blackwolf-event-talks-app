@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of Artificial Intelligence",
+    "speakers": ["Dr. Evelyn Reed"],
+    "category": ["AI", "Machine Learning"],
+    "duration": "1 hour",
+    "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+  },
+  {
+    "title": "Building Scalable Web Applications",
+    "speakers": ["John Smith", "Jane Doe"],
+    "category": ["Web Development", "Scalability"],
+    "duration": "1 hour",
+    "description": "Learn the best practices for designing and building web applications that can handle millions of users."
+  },
+  {
+    "title": "Cybersecurity in a Post-Quantum World",
+    "speakers": ["Dr. Alan Grant"],
+    "category": ["Cybersecurity", "Cryptography"],
+    "duration": "1 hour",
+    "description": "An overview of the threats posed by quantum computing and how to prepare for them."
+  },
+  {
+    "title": "The Rise of Serverless Computing",
+    "speakers": ["Maria Garcia"],
+    "category": ["Serverless", "Cloud Computing"],
+    "duration": "1 hour",
+    "description": "Explore the benefits of serverless architecture and how to leverage it to build cost-effective and scalable applications."
+  },
+  {
+    "title": "Introduction to Blockchain Technology",
+    "speakers": ["David Lee"],
+    "category": ["Blockchain", "Web3"],
+    "duration": "1 hour",
+    "description": "A beginner-friendly introduction to the world of blockchain, cryptocurrencies, and decentralized applications."
+  },
+  {
+    "title": "Human-Computer Interaction in the Age of AI",
+    "speakers": ["Dr. Sarah Connor", "Dr. Kyle Reese"],
+    "category": ["HCI", "AI", "UX"],
+    "duration": "1 hour",
+    "description": "Discover how AI is changing the way we interact with technology and what it means for the future of user experience design."
+  }
+]
